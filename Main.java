@@ -14,7 +14,7 @@ public class Main{
            int numeroContenedor = sc.nextInt();
 
            d.Hanoi(numeroContenedor, 1, 2, 3);
-//Ventana
+//Ventana 
            Ventana v1 = new Ventana();
            v1.setVisible(true);
 
